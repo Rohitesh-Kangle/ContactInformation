@@ -40,4 +40,4 @@ Pre-requites:
 visual studio, framework and sql server installed.
 
 Note:
-if possible run both application run as administrator rights.
+if possible run both application with administrator rights.
