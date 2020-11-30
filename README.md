@@ -1,15 +1,23 @@
 There are two module/Project.
 
 1. Web api project which helps us to interact with DB.
+
   a) Here I have used sql server as database and name of database is InfoDB.mdf which contains one table CustomerInformation.
   
   b)  CustomerInformation Table Info
+  
       i)  Customer ID which is identity column
+      
 	 ii)  FirstName which can accept 50 character
+	 
     iii)  LastName which can accept 50 character
+    
 	 iv)  Email which can accept 50 character
+	 
 	  v)  Phone number which can accept 10 charterer 
+	  
 	 vi)  status which is boolean to maintain if customer is active or inactive.
+	 
   c) For communication between database and webpi I have used EntityFramework Database approach.
 
 2. Asp.net MVC project which communicates with web api to perform operation.
