@@ -19,10 +19,10 @@ There are two module/Project.
 
    a) In this project, there are four minor module 
    
-      i)  List customer details     
-     ii)  Add customer details
-    iii)  Edit customer details
-     iv)  Delete customer details
+      i)  List customer details 
+     ii)  Add customer details 
+    iii)  Edit customer details 
+     iv)  Delete customer details 
 	  
    b) All this is done in Asp.net mvc
    
