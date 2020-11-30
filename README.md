@@ -3,6 +3,7 @@ There are two module/Project.
 1. Web api project which helps us to interact with DB.
 
   a) Here I have used sql server as database and name of database is InfoDB.mdf which contains one table CustomerInformation.
+  
   b)  CustomerInformation Table Info
   
       i)  Customer ID which is identity column
@@ -15,11 +16,13 @@ There are two module/Project.
   c) For communication between database and webpi I have used EntityFramework Database approach.
 
 2. Asp.net MVC project which communicates with web api to perform operation.
+
    a) In this project, there are four minor module 
+   
       i)  List customer details.
-	 ii)  Add customer details.
-	 iii) Edit customer details.
-	 iv)  Delete customer details.
+     ii)  Add customer details.
+    iii)  Edit customer details.
+     iv)  Delete customer details.
 	  
    b) All this is done in Asp.net mvc
    
