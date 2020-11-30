@@ -1,8 +1,10 @@
 There are two module/Project.
 
 1. Web api project which helps us to interact with DB.
+
   a) Here I have used sql server as database and name of database is InfoDB.mdf which contains one table CustomerInformation.
   b)  CustomerInformation Table Info
+  
       i)  Customer ID which is identity column
       ii)  FirstName which can accept 50 character
      iii)  LastName which can accept 50 character    
